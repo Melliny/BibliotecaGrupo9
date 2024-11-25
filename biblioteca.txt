@@ -1,0 +1,23 @@
+1984;George Orwell;true
+Dom Casmurro;Machado de Assis;true
+Orgulho e Preconceito;Jane Austen;true
+O Pequeno Príncipe;Antoine de Saint-Exupéry;true
+A Revolução dos Bichos;George Orwell;true
+Cem Anos de Solidão;Gabriel García Márquez;true
+O Morro dos Ventos Uivantes;Emily Brontë;true
+Moby Dick;Herman Melville;true
+A Metamorfose;Franz Kafka;true
+O Sol é Para Todos;Harper Lee;true
+Fahrenheit 451;Ray Bradbury;true
+O Estrangeiro;Albert Camus;true
+A Menina que Roubava Livros;Markus Zusak;false
+O Alquimista;Paulo Coelho;true
+Harry Potter e a Pedra Filosofal;J.K. Rowling;true
+A Sombra do Vento;Carlos Ruiz Zafón;true
+O Código Da Vinci;Dan Brown;true
+A Guerra dos Tronos;George R.R. Martin;true
+O Diário de Anne Frank;Anne Frank;true
+A Cabana ;William Young;false
+É assim que acaba;Collen Hoover;true
+É Assim que Começa;Collen Hoover ;true
+O Senhor dos Anéis;J.R.R. Tolkien;true
